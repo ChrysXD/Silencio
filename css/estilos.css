@@ -10,7 +10,8 @@
 
 body {
 	background: url('../img/init.jpg');
-	background-size: cover;
+	background-size: 100%;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 	padding-top:55px; 
 	font-family:'Open Sans',Sans-serif, Arial, Helvetica;
